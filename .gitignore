@@ -120,3 +120,5 @@ lib/.sass-cache
 app/values/fb-creds.js
 
 # End of https://www.gitignore.io/api/osx
+
+.sqlite
